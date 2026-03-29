@@ -12,12 +12,12 @@ export default function Header() {
               <div className="right">
                 <ul className="ul1">
                   <li className="li1">
-                   <Link href="#" className="lnk">
+                   <Link href="/" className="lnk">
                     Home
                    </Link>
                   </li>
                   <li className="li1">
-                   <Link href="#" className="lnk">
+                   <Link href="/aboUt" className="lnk">
                     About Us
                    </Link>
                   </li>
