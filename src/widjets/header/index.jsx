@@ -22,19 +22,19 @@ export default function Header() {
                    </Link>
                   </li>
                   <li className="li1">
-                   <Link href="#" className="lnk">
+                   <Link href="/news" className="lnk">
                     News
                    </Link>
                   </li>
                   <li className="li1">
-                   <Link href="#" className="lnk">
+                   <Link href="/impact" className="lnk">
                     Impact
                    </Link>
                   </li>
                 </ul>
 
                 <button className="btn">
-                  <Link href="#" className="lnk2">
+                  <Link href="/programs" className="lnk2">
                   Programs
                   </Link>
                 </button>

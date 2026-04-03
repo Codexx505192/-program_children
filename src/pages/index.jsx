@@ -170,7 +170,7 @@ export default function Home() {
           </div>
 
           <button className="btn4">
-            <Link href="#" className="lnk5">
+            <Link href="/how" className="lnk5">
             How it works
             </Link>
           </button>
